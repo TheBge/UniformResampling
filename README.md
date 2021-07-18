@@ -1,14 +1,25 @@
 # UniformResampling
 
-Description:
+**Description:**
 
 This is a Resample Progarm for Specific text files.
 
 The input file(.txt) is extract from a slice Project.
     
-input:
+**input:**
 		X coordinate      Y coordinate
     
-ouput:
+**ouput:**
 		X coordinate      Y coordinate      Z coordinate(layer height)
     
+
+**Test Point Set extract from STL**
+
+![](img/test.png)
+
+
+
+**Result Point Set in meshlab**
+
+![](img/res.png)
+
