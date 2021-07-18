@@ -20,5 +20,5 @@ The input file(.txt) is extract from a slice Project.
 
 **Result Point Set in meshlab**
 
-![image](img/res.png)
+![image](https://github.com/TheBge/UniformResampling/blob/master/img/res.png)
 
