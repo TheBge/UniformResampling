@@ -15,11 +15,11 @@ The input file(.txt) is extract from a slice Project.
 
 **Test Point Set extract from STL**
 
-![](img/test.png)
+![image](img/test.png)
 
 
 
 **Result Point Set in meshlab**
 
-![](img/res.png)
+![image](img/res.png)
 
