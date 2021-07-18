@@ -15,7 +15,7 @@ The input file(.txt) is extract from a slice Project.
 
 **Test Point Set extract from STL**
 
-![image](img/test.png)
+![image](https://github.com/TheBge/UniformResampling/blob/master/img/test.png)
 
 
 **Result Point Set in meshlab**
